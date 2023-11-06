@@ -1,0 +1,7 @@
+{
+  "tableName": "dynamoadd",
+  "partitionKeyName": "id",
+  "partitionKeyType": "S",
+  "sortKeyName": "text",
+  "sortKeyType": "S"
+}
